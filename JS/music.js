@@ -45,7 +45,7 @@ function decode(str) {
             title: '看门狗',
             artist: '门尼',
             audioUrl: 'https://music-3jk.pages.dev/MONEY/kanmengou.mp3',
-            lrcUrl: 'Music/危险派对.lrc',
+            lrcUrl: 'Music/看门狗.lrc',
             grad: ['#8b7cff', '#ff6ba8']
         }
     ];
